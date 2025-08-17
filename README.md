@@ -52,7 +52,7 @@ pip install -r requirements.txt
 3. Run the program:
 
 ```bash
-python alpha_steganography.py
+python Alpha_st.py
 ```
 
 ### Run as Executable
@@ -60,7 +60,7 @@ python alpha_steganography.py
 If you use **binary**, just run:
 
 ```bash
-./Alpha_Steganography
+./Alpha_st
 ```
 
 ---
